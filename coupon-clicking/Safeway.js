@@ -8,15 +8,22 @@
  * 
  *********************************************/
 
-let availableButtons = 0;
 
 var handle = setInterval(function () {checkButtons() },500);
 
 function checkButtons() {
 
-    alert(availableButtons);    
+    let numButtons = document.querySelectorAll('span[role="button"]').length;
+
+    alert(numButtons);    
     window.scrollTo(0, document.body.scrollHeight);
-    availableButtons = alert(document.querySelectorAll('span[role="button"]').length);
+    setTimeOut(){
+    
+        if (numButtons == document.querySelectorAll('span[role="button"]').length){
+            clearInterval(handle);
+            alert('Interval cleared');
+        }
+    }, 2000);
 }
 
 function stopInterval() {
