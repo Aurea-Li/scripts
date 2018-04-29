@@ -8,23 +8,18 @@
  * 
  *********************************************/
 
-let
+let availableButtons = 0;
 
-setInterval(function () { 
+var handle = setInterval(function () {checkButtons() },500);
+
+function checkButtons() {
+
+    alert(availableButtons);    
     window.scrollTo(0, document.body.scrollHeight);
-    console.log(document.querySelectorAll('span[role="button"]').length);
-},500);
-
-
-let buttonList = document.querySelectorAll('span[role="button"]');
-
-
-
-for (let i = 0; i < buttonList.length; i++) {
-
-    (function (i) {
-        setTimeout(function () {
-            buttonList[i].click();
-        }, 500 * i)
-    })(i);
+    availableButtons = alert(document.querySelectorAll('span[role="button"]').length);
 }
+
+function stopInterval() {
+    clearInterval(handle);
+}
+
