@@ -1,0 +1,1472 @@
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
+<table class="sd-table">
+ <thead>
+  <tr>
+   <th class="show-small" role="presentation">
+   </th>
+   <th class="show-small">
+    Hot
+   </th>
+   <th>
+    Cool
+   </th>
+   <th>
+    Archive
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    First 50 terabyte (TB) / month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.024,"asia-pacific-southeast":0.02,"australia-central":0.025,"australia-central-2":0.025,"australia-east":0.02,"australia-southeast":0.02,"brazil-south":0.0326,"canada-central":0.02,"canada-east":0.02,"central-india":0.02,"europe-north":0.022,"europe-west":0.0196,"france-central":0.0192,"france-south":0.02496,"germany-central":0.021,"germany-northeast":0.021,"japan-east":0.02,"japan-west":0.02,"korea-central":0.02,"korea-south":0.02,"south-india":0.0238,"united-kingdom-south":0.0192,"united-kingdom-west":0.0192,"us-central":0.0184,"us-east":0.0208,"us-east-2":0.0184,"usgov-arizona":0.0296,"usgov-iowa":0.0296,"usgov-texas":0.0296,"usgov-virginia":0.0296,"us-north-central":0.0208,"us-south-central":0.0184,"us-west":0.0208,"us-west-2":0.0184,"us-west-central":0.0184,"west-india":0.02}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Next 450 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02304,"asia-pacific-southeast":0.0192,"australia-central":0.024,"australia-central-2":0.024,"australia-east":0.0192,"australia-southeast":0.0192,"brazil-south":0.03146,"canada-central":0.0192,"canada-east":0.0192,"central-india":0.0192,"europe-north":0.02112,"europe-west":0.018816,"france-central":0.018432,"france-south":0.023961,"germany-central":0.02016,"germany-northeast":0.02016,"japan-east":0.0192,"japan-west":0.0192,"korea-central":0.0192,"korea-south":0.0192,"south-india":0.022848,"united-kingdom-south":0.018432,"united-kingdom-west":0.018432,"us-central":0.017664,"us-east":0.019968,"us-east-2":0.017664,"usgov-arizona":0.02856,"usgov-iowa":0.028416,"usgov-texas":0.02856,"usgov-virginia":0.028416,"us-north-central":0.019968,"us-south-central":0.017664,"us-west":0.019968,"us-west-2":0.017664,"us-west-central":0.017664,"west-india":0.0192}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Over 500 TB / Month
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.02208,"asia-pacific-southeast":0.0184,"australia-central":0.023,"australia-central-2":0.023,"australia-east":0.0184,"australia-southeast":0.0184,"brazil-south":0.03032,"canada-central":0.0184,"canada-east":0.0184,"central-india":0.0184,"europe-north":0.02024,"europe-west":0.018032,"france-central":0.017664,"france-south":0.022963,"germany-central":0.01932,"germany-northeast":0.01932,"japan-east":0.0184,"japan-west":0.0184,"korea-central":0.0184,"korea-south":0.0184,"south-india":0.021896,"united-kingdom-south":0.017664,"united-kingdom-west":0.017664,"us-central":0.016928,"us-east":0.019136,"us-east-2":0.016928,"usgov-arizona":0.02753,"usgov-iowa":0.027232,"usgov-texas":0.02753,"usgov-virginia":0.027232,"us-north-central":0.019136,"us-south-central":0.016928,"us-west":0.019136,"us-west-2":0.016928,"us-west-central":0.016928,"west-india":0.0184}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"asia-pacific-east":0.016,"asia-pacific-southeast":0.016,"australia-central":0.01875,"australia-central-2":0.01875,"australia-east":0.015,"australia-southeast":0.015,"brazil-south":0.0208,"canada-central":0.011,"canada-east":0.011,"central-india":0.0152,"europe-north":0.01,"europe-west":0.01,"france-central":0.0105,"france-south":0.01365,"germany-central":0.0115,"germany-northeast":0.0115,"japan-east":0.015,"japan-west":0.015,"korea-central":0.0144,"korea-south":0.0144,"south-india":0.015,"united-kingdom-south":0.0105,"united-kingdom-west":0.0105,"us-central":0.01,"us-east":0.0152,"us-east-2":0.01,"usgov-arizona":0.016,"usgov-iowa":0.016,"usgov-texas":0.016,"usgov-virginia":0.016,"us-north-central":0.0152,"us-south-central":0.01,"us-west":0.0152,"us-west-2":0.01,"us-west-central":0.01,"west-india":0.0152}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+   <td>
+    <span class="price-data " data-amount='{"regional":{"central-india":0.0025,"europe-north":0.002,"europe-west":0.00225,"korea-central":0.0025,"korea-south":0.0027,"south-india":0.003,"us-central":0.002,"us-east":0.002,"us-east-2":0.002,"us-north-central":0.002,"us-south-central":0.0024,"us-west":0.0025,"us-west-2":0.002,"us-west-central":0.002}}' data-decimals="4" data-decimals-force="0" data-region-unavailable="N/A">
+     $-
+    </span>
+    per GB
+   </td>
+  </tr>
+ </tbody>
+</table>
+  Hot Cool Archive 
+  First 50 terabyte (TB) / month   $- per GB   $- per GB   $- per GB  
+  Next 450 TB / Month   $- per GB   $- per GB   $- per GB  
+  Over 500 TB / Month   $- per GB   $- per GB   $- per GB  
