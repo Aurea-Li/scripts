@@ -6,6 +6,7 @@ url = "https://azure.microsoft.com/en-us/pricing/details/storage/blobs/"
 soup = BeautifulSoup(urllib.request.urlopen(url), 'html.parser')
 
 divs = soup.find_all('div', {'class': 'storage-table'})
+# divs = soup.find_all('div', {'class': 'sd-table-container'})
 
 
 
@@ -13,7 +14,9 @@ text = open('azure-prices-table.txt', 'w')
 
 for div in divs:
 
+    # redundancy = div['id']
     redundancy = div['class'][1]
+
 
     table = soup.find('table').find('tbody')
 
@@ -37,17 +40,21 @@ for div in divs:
 
         spans = soup.findAll('span', {'class': 'price-data'})
         for sp in spans:
+
+            print(sp)
+
+            print("\n\n\n")
             string_regions = sp.get('data-amount')
             d = json.loads(string_regions)
 
-            print(d)
-            print("\n\n\n")
+            print(type(d))
 
-            for regional in d:
-                for region in d[regional]:
+            if type(d) is dict:
+                for regional in d:
+                    for region in d[regional]:
 
-                 
-                    text.write(redundancy + "\t" + region + "\t" + storage_size + "\t" + str(d[regional][region]) + "\n")
+                    
+                        text.write(redundancy + "\t" + region + "\t" + storage_size + "\t" + str(d[regional][region]) + "\n")
 
 text.close()
 
