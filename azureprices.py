@@ -7,7 +7,7 @@ soup = BeautifulSoup(urllib.request.urlopen(url), 'html.parser')
 
 section = soup.find_all('section', {'class': 'section section-size3 account-type'})
 
-text = open('azure-prices-table.txt', 'w')
+text = open('azure-prices-table.csv', 'w')
 
 for sect in section:
     accountType = sect['data-filter'].replace('-filter','-account')
@@ -21,7 +21,7 @@ for sect in section:
 
         for row in table.findAll('tr'):
 
-            storage_size = row.find("td").text
+            storage_SKU = row.find("td").text.replace('*','')
 
 
             spans = row.findAll('span', {'class': 'price-data'})
@@ -35,10 +35,10 @@ for sect in section:
                         for region in d[regional]:
 
                             text.write(
-                                accountType + "\t" + 
-                                redundancy + "\t" + 
-                                region + "\t" + 
-                                storage_size + "\t" + 
+                                accountType + "," + 
+                                redundancy + "," + 
+                                region + "," + 
+                                storage_SKU + "," + 
                                 str(d[regional][region]) + 
                                 "\n")
 text.close()       
