@@ -5,62 +5,40 @@ import json
 url = "https://azure.microsoft.com/en-us/pricing/details/storage/blobs/"
 soup = BeautifulSoup(urllib.request.urlopen(url), 'html.parser')
 
-divs = soup.find_all('div', {'class': 'storage-table'})
-# divs = soup.find_all('div', {'class': 'sd-table-container'})
-
-
+section = soup.find_all('section', {'class': 'section section-size3 account-type'})
 
 text = open('azure-prices-table.txt', 'w')
 
-for div in divs:
+for sect in section:
+    accountType = sect['data-filter'].replace('-filter','-account')
 
-    # redundancy = div['id']
-    redundancy = div['class'][1]
+    divs = sect.find_all('div', {'class': 'storage-table'})
 
+    for div in divs:
+        redundancy = div['class'][1].replace('_','').upper()
 
-    table = soup.find('table').find('tbody')
+        table = div.find('table').find('tbody')
 
+        for row in table.findAll('tr'):
 
-    for row in table.findAll('tr'):
-
-        storage_size = row.find('td').text
-
-
-        #     print(cell)
-        #     print("\n")
-
-        
-
-        # if cols['class'] == "column-2":
-        #     typestr = "HOT"
-        # elif cols['class'] == "column-3":
-        #     typestr = "COLD"
-        # elif cols['class'] == "column-4":
-        #     typestr = "ARCHIVE"
-
-        spans = soup.findAll('span', {'class': 'price-data'})
-        for sp in spans:
-
-            print(sp)
-
-            print("\n\n\n")
-            string_regions = sp.get('data-amount')
-            d = json.loads(string_regions)
-
-            print(type(d))
-
-            if type(d) is dict:
-                for regional in d:
-                    for region in d[regional]:
-
-                    
-                        text.write(redundancy + "\t" + region + "\t" + storage_size + "\t" + str(d[regional][region]) + "\n")
-
-text.close()
+            storage_size = row.find("td").text
 
 
+            spans = row.findAll('span', {'class': 'price-data'})
 
+            for sp in spans:
+                string_regions = sp.get('data-amount')
+                d = json.loads(string_regions)
 
-        # print(row.text)
+                if type(d) is dict:
+                    for regional in d:
+                        for region in d[regional]:
 
-       
+                            text.write(
+                                accountType + "\t" + 
+                                redundancy + "\t" + 
+                                region + "\t" + 
+                                storage_size + "\t" + 
+                                str(d[regional][region]) + 
+                                "\n")
+text.close()       
