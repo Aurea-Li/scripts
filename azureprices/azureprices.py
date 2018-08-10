@@ -5,11 +5,17 @@ import json
 url = "https://azure.microsoft.com/en-us/pricing/details/storage/blobs/"
 soup = BeautifulSoup(urllib.request.urlopen(url), 'html.parser')
 
+stext = open('azure-pricing-top.txt', 'w')
 section = soup.find_all('section', {'class': 'section section-size3 account-type'})
+stext.write(str(section))
+stext.close()       
 
 text = open('azure-prices-table.csv', 'w')
 
+i = 0
+
 for sect in section:
+    i+=1
     accountType = sect['data-filter'].replace('-filter','-account')
 
     divs = sect.find_all('div', {'class': 'storage-table'})
@@ -41,4 +47,16 @@ for sect in section:
                                 storage_SKU + "," + 
                                 str(d[regional][region]) + 
                                 "\n")
+        
+        tabletext = open('azure-pricing-dttable'+str(i)+'.txt', 'w')
+        datatransfertable = sect.find_all('table')
+        datatransferpricespans = datatransfertable[-1].findAll('span', {'class': 'price-data'})[0].get('data-amount')
+        transferd = json.loads(datatransferpricespans)
+        # if type(d) is dict:
+        #     for regional in d:
+        # for region in d[regional]:
+        tabletext.write(str(transferd[regional]))
+        tabletext.close()       
+        
+
 text.close()       
