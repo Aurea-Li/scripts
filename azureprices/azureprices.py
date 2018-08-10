@@ -21,7 +21,7 @@ for sect in section:
 
         for row in table.findAll('tr'):
 
-            storage_SKU = row.find("td").text.replace('*','')
+            storage_SKU = row.find("td").text.replace('*','').replace(',','')
 
 
             spans = row.findAll('span', {'class': 'price-data'})
