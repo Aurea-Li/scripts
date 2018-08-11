@@ -20,20 +20,22 @@ for sect in section:
 
     divs = sect.find_all('div', {'class': 'storage-table'})
 
-    #  th class="show-small" role="presentation - get access tier
-
+    tabletext = open('azure-pricing-accesstiertable'+str(i)+'.txt', 'w')
+   
     for div in divs:
         redundancy = div['class'][1].replace('_','').upper()
 
-        table = div.find('table').find('tbody')
+        # thaccesstier = div.find('table').find('thead')
+        # #  th class="show-small" role="presentation - get access tier
+        # tabletext.write(str(thaccesstier))
 
+        table = div.find('table').find('tbody')
         for row in table.findAll('tr'):
 
             storage_SKU = row.find("td").text.replace('*','').replace(',','')
 
-
             spans = row.findAll('span', {'class': 'price-data'})
-
+            # for tier in ['Hot','Cool','Archive']:
             for sp in spans:
                 string_regions = sp.get('data-amount')
                 d = json.loads(string_regions)
@@ -44,13 +46,13 @@ for sect in section:
 
                             text.write(
                                 accountType + "," + 
+                                # tier + "," +
                                 redundancy + "," + 
                                 region + "," + 
                                 storage_SKU + "," +
                                 str(d[regional][region]) + 
                                 "\n")
         
-        # tabletext = open('azure-pricing-dttable'+str(i)+'.txt', 'w')
         datatransfertable = sect.find_all('table')
         datatransferpricespans = datatransfertable[-1].findAll('span', {'class': 'price-data'})[0].get('data-amount')
         
@@ -65,7 +67,7 @@ for sect in section:
                     "Data Transfer (per GB)," + 
                     str(transferd[regional][region]) + 
                     "\n")
-        # tabletext.write(str(transferd[regional]))
-        # tabletext.close()       
-        
+
+    # tabletext.close()
+
 text.close()       
