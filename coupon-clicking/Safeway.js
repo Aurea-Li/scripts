@@ -12,9 +12,7 @@
 /* Click all coupon buttons */
 buttonList = document.querySelectorAll('span[role="button"]');
 
-
 for (var i = 0; i < buttonList.length; i++) {
-
     (function (i) {
         setTimeout(function () {
             buttonList[i].click();
