@@ -22,7 +22,7 @@ for (i = 0; i < 20; i++) {
 
 /* Click all coupon buttons */
 
-buttonList = document.querySelectorAll('span[role="button"]');
+buttonList = document.querySelectorAll('button[role="button"]');
 
 for (var i = 0; i < buttonList.length; i++) {
     (function (i) {
